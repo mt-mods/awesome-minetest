@@ -52,7 +52,7 @@
 ### Map
 
 - [maptools](https://github.com/minetest-mods/maptools) Map tools/nodes
-- [mapserver_mod](https://github.com/thomasrudin/mapserver_mod) POI's and other map-stuff for the mapserver
+- [mapserver_mod](https://github.com/thomasrudin-mt/mapserver_mod) POI's and other map-stuff for the mapserver
 
 ## Third-party apps
 
