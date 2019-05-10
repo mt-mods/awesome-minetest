@@ -66,8 +66,8 @@
 
 ### Map-tools
 
-- [Mapper](https://github.com/minetest/minetestmapper) default mapper
-- [Mapserver](https://github.com/thomasrudin-mt/mapserver) realtime mapper
+- [minetestmapper](https://github.com/minetest/minetestmapper) default mapper
+- [mapserver](https://github.com/thomasrudin-mt/mapserver) realtime mapper
 - [webmail](https://github.com/thomasrudin-mt/mail) ingame-webmail bridge
 
 ## License
