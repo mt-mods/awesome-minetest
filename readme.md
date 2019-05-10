@@ -41,8 +41,12 @@
 
 - [Digtron](https://github.com/minetest-mods/digtron) A modular tunnel boring/construction machine mod for Minetest
 
-
 ### Farming
+
+
+### Communication
+
+- [mail](https://github.com/thomasrudin-mt/mail) ingame mail and optional webmail
 
 ### Technology
 
@@ -54,13 +58,17 @@
 - [maptools](https://github.com/minetest-mods/maptools) Map tools/nodes
 - [mapserver_mod](https://github.com/thomasrudin-mt/mapserver_mod) POI's and other map-stuff for the mapserver
 
+### Performance
+
+- [monitoring](https://github.com/thomasrudin-mt/monitoring) prometheus monitoring client
+
 ## Third-party apps
 
 ### Map-tools
 
-- [Mapper](https://github.com/minetest/minetestmapper)
-- [Mapserver](https://github.com/thomasrudin-mt/mapserver)
-
+- [Mapper](https://github.com/minetest/minetestmapper) default mapper
+- [Mapserver](https://github.com/thomasrudin-mt/mapserver) realtime mapper
+- [webmail](https://github.com/thomasrudin-mt/mail) ingame-webmail bridge
 
 ## License
 
