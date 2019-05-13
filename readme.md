@@ -34,6 +34,7 @@
 ## Third-party websites
 
 - [Mesehub](https://git.minetest.land) Free software based Git service for Minetest projects
+- [monitoring.minetest.land](https://monitoring.minetest.land) Public minetest monitoring website for server owners
 
 ## Games
 
