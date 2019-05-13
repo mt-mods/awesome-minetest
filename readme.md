@@ -10,6 +10,13 @@
 - [Games](#games)
 - [Mods](#mods)
  - [Skins](#skins)
+ - [Inventory](#inventory)
+ - [Building](#building)
+ - [Farming](#farming)
+ - [Communication](#communication)
+ - [Technology](#technology)
+ - [Map](#map)
+ - [Performance](#performance)
 - [Third-party apps](#third-party-apps)
 - [License](#license)
 
