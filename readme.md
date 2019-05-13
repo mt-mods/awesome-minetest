@@ -7,6 +7,7 @@
 ## TOC
 
 - [Websites](#websites)
+- [Third-party websites](#third-party-websites)
 - [Games](#games)
 - [Mods](#mods)
  - [Skins](#skins)
@@ -28,7 +29,11 @@
 - [IRC](https://irc.minetest.net)
 - [Content-DB](https://content.minetest.net)
 - [Servers](https://servers.minetest.net)
-- [Github](https://github.com/minetest)
+- [Github](https://github.com/
+
+## Third-part websites
+
+- [Mesehub](https://git.minetest.land) Free software based Git service for Minetest projects
 
 ## Games
 
