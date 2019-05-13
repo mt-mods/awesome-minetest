@@ -10,14 +10,14 @@
 - [Third-party websites](#third-party-websites)
 - [Games](#games)
 - [Mods](#mods)
- - [Skins](#skins)
- - [Inventory](#inventory)
- - [Building](#building)
- - [Farming](#farming)
- - [Communication](#communication)
- - [Technology](#technology)
- - [Map](#map)
- - [Performance](#performance)
+  - [Skins](#skins)
+  - [Inventory](#inventory)
+  - [Building](#building)
+  - [Farming](#farming)
+  - [Communication](#communication)
+  - [Technology](#technology)
+  - [Map](#map)
+  - [Performance](#performance)
 - [Third-party apps](#third-party-apps)
 - [License](#license)
 
@@ -29,9 +29,9 @@
 - [IRC](https://irc.minetest.net)
 - [Content-DB](https://content.minetest.net)
 - [Servers](https://servers.minetest.net)
-- [Github](https://github.com/
+- [Github](https://github.com/minetest)
 
-## Third-part websites
+## Third-party websites
 
 - [Mesehub](https://git.minetest.land) Free software based Git service for Minetest projects
 
