@@ -13,7 +13,11 @@
   - [Skins](#skins)
   - [Inventory](#inventory)
   - [Building](#building)
+  - [Protection](#protection)
+  - [Mobs](#mobs)
+  - [Decoration](#decoration)
   - [Farming](#farming)
+  - [Plants](#plants)
   - [Communication](#communication)
   - [Technology](#technology)
   - [Map](#map)
@@ -55,8 +59,34 @@
 
 - [Digtron](https://github.com/minetest-mods/digtron) A modular tunnel boring/construction machine mod for Minetest
 
+### Protection
+
+- [protector](https://notabug.org/TenPlus1/protector) adds a protector block
+- [areas](https://github.com/minetest-mods/areas) adds area protection
+
+### Mobs
+
+- [mobs_redo](https://notabug.org/TenPlus1/mobs_redo) Mob API for mods to add monsters, animals and more
+- [mobs_animal](https://notabug.org/TenPlus1/mobs_animal) Animal mobs for Mobs Redo
+- [mobs_monster](https://notabug.org/TenPlus1/mobs_monster) Monsters for Mobs Redo
+- [mobs_horse](https://notabug.org/TenPlus1/mob_horse) Horse for Mobs Redo
+- [mobs_npc](https://notabug.org/TenPlus1/mobs_npc) NPC, Igor and Trader mobs for Mobs Redo
+- [bees](https://notabug.org/TenPlus1/bees) adds bees and hives
+
+### Decoration
+
+- [homedecor_modpack](https://gitlab.com/VanessaE/homedecor_modpack) Sofas, kitchen kabinets, pictures, lamps and more
+- [bakedclay](https://notabug.org/TenPlus1/bakedclay) Baked clay in vaious colors
+
 ### Farming
 
+- [farming](https://notabug.org/TenPlus1/farming) farming redo mod
+- [wine](https://notabug.org/TenPlus1/wine) adds wine and other beverages
+
+### Plants
+
+- [moretrees](https://gitlab.com/VanessaE/moretrees) adds several new tree types
+- [ethereal](https://notabug.org/TenPlus1/ethereal) adds many new biomes, trees and plants
 
 ### Communication
 
@@ -66,6 +96,7 @@
 
 - [mesecons](https://github.com/minetest-mods/mesecons) Mod for minetest that adds digital circuitry
 - [technic](https://github.com/minetest-mods/technic) Technic mod for Minetest
+- [pipeworks](https://gitlab.com/VanessaE/pipeworks) Adds industrial pipes for item transport
 
 ### Map
 
