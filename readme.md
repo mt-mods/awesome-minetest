@@ -1,4 +1,4 @@
-# Awesome Minetest [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/thomasrudin-mt/awesome-minetest)
+# Awesome Minetest [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/awesome-minetest/awesome-minetest)
 
 > List of awesome things related to Minetest
 
