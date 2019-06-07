@@ -17,6 +17,7 @@
   - [Communication](#communication)
   - [Technology](#technology)
   - [Map](#map)
+  - [Player management](#player-management)
   - [Performance](#performance)
 - [Third-party apps](#third-party-apps)
 - [License](#license)
@@ -70,6 +71,10 @@
 
 - [maptools](https://github.com/minetest-mods/maptools) Map tools/nodes
 - [mapserver_mod](https://github.com/thomasrudin-mt/mapserver_mod) POI's and other map-stuff for the mapserver
+
+### Player management
+
+- [xban2](https://github.com/minetest-mods/xban2) Extended Ban Mod for Minetest
 
 ### Performance
 
