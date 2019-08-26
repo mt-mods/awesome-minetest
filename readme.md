@@ -24,6 +24,8 @@
   - [Player management](#player-management)
   - [Performance](#performance)
 - [Third-party apps](#third-party-apps)
+  - [Map-Tools](#map-tools)
+  - [Communication](#communication)
 - [License](#license)
 
 ## Websites
@@ -117,6 +119,10 @@
 
 - [minetestmapper](https://github.com/minetest/minetestmapper) default mapper
 - [mapserver](https://github.com/thomasrudin-mt/mapserver) realtime mapper
+- [colors.txt](https://github.com/MilesBDyson/Colors.txt) colors.txt repository for various mappers
+
+### Communication
+
 - [webmail](https://github.com/thomasrudin-mt/mail) ingame-webmail bridge
 
 ## License
