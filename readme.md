@@ -22,8 +22,8 @@
   - [Technology](#technology)
   - [Map](#map)
   - [Player management](#player-management)
-  - [Performance](#performance)
 - [Third-party apps](#third-party-apps)
+  - [Performance](#performance)
   - [Map-Tools](#map-tools)
   - [Communication](#communication)
 - [License](#license)
@@ -109,21 +109,26 @@
 
 - [xban2](https://github.com/minetest-mods/xban2) Extended Ban Mod for Minetest
 
+## Third-party apps
+
 ### Performance
 
-- [monitoring](https://github.com/thomasrudin-mt/monitoring) prometheus monitoring client
-
-## Third-party apps
+- [monitoring](https://github.com/minetest-monitoring) monitoring tools
 
 ### Map-tools
 
 - [minetestmapper](https://github.com/minetest/minetestmapper) default mapper
-- [mapserver](https://github.com/thomasrudin-mt/mapserver) realtime mapper
+- [mapserver](https://github.com/minetest-mapserver) realtime mapserver
 - [colors.txt](https://github.com/MilesBDyson/Colors.txt) colors.txt repository for various mappers
 
 ### Communication
 
-- [webmail](https://github.com/thomasrudin-mt/mail) ingame-webmail bridge
+- [webmail](https://github.com/minetest-mail) ingame-webmail bridge
+- [beerchat](https://github.com/minetest-beerchat) chat manager with channels and optional IRC bridge
+
+### Authorisation
+
+- [auth-proxy](https://github.com/minetest-auth-proxy) authorization proxy for 3rd party apps (mediawiki, etc)
 
 ## License
 
