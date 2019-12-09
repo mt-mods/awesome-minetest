@@ -11,6 +11,7 @@
 - [Games](#games)
 - [Mods](#mods)
   - [Skins](#skins)
+  - [Armor](#armor)
   - [Inventory](#inventory)
   - [Building](#building)
   - [Protection](#protection)
@@ -52,6 +53,10 @@
 ### Skins
 
 - [skinsdb](https://github.com/minetest-mods/skinsdb) Player skin mod, supporting unified_inventory, sfinv and smart_inventory
+
+### Armor
+
+- [3d_armor](https://github.com/mt-mods/3d_armor) Visible player armor & wielded items for minetest
 
 ### Inventory
 
