@@ -1,0 +1,20 @@
+name: markdownlint
+
+on: [push, pull_request]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: apt
+      run: sudo apt-get install -y nodejs npm
+
+    - name: npm install
+      run: npm i -g markdownlint-cli
+
+    - name: markdown lint
+      run: markdownlint .

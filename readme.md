@@ -1,5 +1,7 @@
 # Awesome Minetest [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/awesome-minetest/awesome-minetest)
 
+![markdown](https://github.com/mt-mods/awesome-minetest/workflows/markdownlint/badge.svg)
+
 > List of awesome things related to Minetest
 
 [Minetest](https://minetest.net/) is an open source infinite-world block sandbox game engine with support for survival and crafting
@@ -94,10 +96,6 @@
 
 - [moretrees](https://gitlab.com/VanessaE/moretrees) adds several new tree types
 - [ethereal](https://notabug.org/TenPlus1/ethereal) adds many new biomes, trees and plants
-
-### Communication
-
-- [mail](https://github.com/thomasrudin-mt/mail) ingame mail and optional webmail
 
 ### Technology
 
