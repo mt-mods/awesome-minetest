@@ -4,7 +4,7 @@
 
 > List of awesome things related to Minetest
 
-[Minetest](https://minetest.net/) is an open source infinite-world block sandbox game engine with support for survival and crafting
+[Minetest](https://minetest.net/) is an open source infinite-block sandbox game engine with support for survival and crafting
 
 ## TOC
 
@@ -45,6 +45,7 @@
 
 - [Mesehub](https://git.minetest.land) Free software based Git service for Minetest projects
 - [monitoring.minetest.land](https://monitoring.minetest.land) Public minetest monitoring website for server owners
+- [blockexchange.minetest.land](https://blockexchange.minetest.land) Cloud worldedit import/export
 
 ## Games
 
@@ -107,6 +108,10 @@
 
 - [maptools](https://github.com/minetest-mods/maptools) Map tools/nodes
 - [mapserver_mod](https://github.com/thomasrudin-mt/mapserver_mod) POI's and other map-stuff for the mapserver
+
+### World editing
+
+- [blockexchange](https://github.com/blockexchange) Blockexchange cloud worldedit import/export mod
 
 ### Player management
 
