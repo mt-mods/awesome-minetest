@@ -111,6 +111,7 @@
 
 ### World editing
 
+- [WorldEdit](https://github.com/Uberi/Minetest-WorldEdit) Worldedit mod
 - [blockexchange](https://github.com/blockexchange) Blockexchange cloud worldedit import/export mod
 
 ### Player management
