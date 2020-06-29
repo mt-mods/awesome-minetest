@@ -104,6 +104,7 @@
 
 - [mesecons](https://github.com/minetest-mods/mesecons) Mod for minetest that adds digital circuitry
 - [technic](https://github.com/minetest-mods/technic) Technic mod for Minetest
+- [technic (fork)](https://github.com/mt-mods/technic) Technic mod for Minetest (maintained, multiplayer capable fork)
 - [pipeworks](https://gitlab.com/VanessaE/pipeworks) Adds industrial pipes for item transport
 - [jumpdrive](github.com/mt-mods/jumpdrive) Adds a `technic` powered engine to move your buildings across the map
 - [powerbanks](https://github.com/OgelGames/powerbanks) Powerbanks for `technic` tools and machines
