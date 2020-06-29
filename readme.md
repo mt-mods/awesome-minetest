@@ -59,7 +59,9 @@
 
 ### Armor
 
-- [3d_armor](https://github.com/mt-mods/3d_armor) Visible player armor & wielded items for minetest
+- [3d_armor](https://github.com/minetest-mods/3d_armor) Visible player armor & wielded items for minetest
+- [hazmat_suit](https://github.com/pandorabox-io/hazmat_suit) Hazmat suit for `3d_armor`
+- [spacesuit](https://github.com/mt-mods/spacesuit) Spacesuit for `3d_armor`
 
 ### Inventory
 
