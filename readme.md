@@ -23,7 +23,9 @@
   - [Plants](#plants)
   - [Communication](#communication)
   - [Technology](#technology)
+  - [Teleportation](#teleportation)
   - [Map](#map)
+  - [Mapgen](#mapgen)
   - [Player management](#player-management)
 - [Modding](#modding)
   - [Testing](#testing)
@@ -105,16 +107,26 @@
 ### Technology
 
 - [mesecons](https://github.com/minetest-mods/mesecons) Mod for minetest that adds digital circuitry
-- [technic](https://github.com/minetest-mods/technic) Technic mod for Minetest
-- [technic (fork)](https://github.com/mt-mods/technic) Technic mod for Minetest (maintained, multiplayer capable fork)
+- [technic](https://github.com/mt-mods/technic) Technic mod for Minetest (maintained fork)
 - [pipeworks](https://gitlab.com/VanessaE/pipeworks) Adds industrial pipes for item transport
 - [jumpdrive](github.com/mt-mods/jumpdrive) Adds a `technic` powered engine to move your buildings across the map
 - [powerbanks](https://github.com/OgelGames/powerbanks) Powerbanks for `technic` tools and machines
+- [digicontrol](https://github.com/OgelGames/digicontrol)  Minetest mod that adds nodes to control the flow of digiline messages
+
+### Teleportation
+
+- [travelnet](https://github.com/mt-mods/travelnet)  Network of teleporter-boxes that allows easy travelling to other boxes on the same network. (maintained fork)
 
 ### Map
 
 - [maptools](https://github.com/minetest-mods/maptools) Map tools/nodes
 - [mapserver_mod](https://github.com/thomasrudin-mt/mapserver_mod) POI's and other map-stuff for the mapserver
+
+### Mapgen
+
+- [citygen](https://github.com/BuckarooBanzay/citygen/) minetest city mapgenerator
+- [mapblock_lib](https://github.com/BuckarooBanzay/mapblock_lib) Mapblock-granular world operations, transformations and utilities
+- [modgen](https://github.com/BuckarooBanzay/modgen) Allows you to export a part of the map as a standalone mod which can be used as a mapgen
 
 ### World editing
 
