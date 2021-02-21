@@ -25,6 +25,8 @@
   - [Technology](#technology)
   - [Map](#map)
   - [Player management](#player-management)
+- [Modding](#modding)
+  - [Testing](#testing)
 - [Third-party apps](#third-party-apps)
   - [Performance](#performance)
   - [Map-Tools](#map-tools)
@@ -123,11 +125,18 @@
 
 - [xban2](https://github.com/minetest-mods/xban2) Extended Ban Mod for Minetest
 
+## Modding
+
+### Testing
+
+- [mineunit](https://github.com/mt-mods/mineunit) Minetest core / engine libraries for regression tests
+
 ## Third-party apps
 
 ### Performance
 
 - [monitoring](https://github.com/minetest-monitoring) monitoring tools
+- [mtbench](https://github.com/BuckarooBanzay/mtbench) minetest builtin benchmarking mod
 
 ### Map-tools
 
