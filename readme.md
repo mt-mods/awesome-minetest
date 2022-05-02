@@ -37,7 +37,7 @@
 
 ## Websites
 
-- [Official Download](https://minetest.net)
+- [Official Download](https://www.minetest.net)
 - [Wiki](https://wiki.minetest.net)
 - [Forum](https://forum.minetest.net)
 - [IRC](https://irc.minetest.net)
