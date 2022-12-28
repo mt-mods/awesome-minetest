@@ -56,7 +56,7 @@
 
 ## Libraries
 
- - [golang](https://github.com/minetest-go) go libraries/utilities for minetest
+- [golang](https://github.com/minetest-go) go libraries/utilities for minetest
 
 ## License
 
