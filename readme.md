@@ -1,4 +1,4 @@
-# Awesome Minetest [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/awesome-minetest/awesome-minetest)
+# Awesome Minetest [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/mt-mods/awesome-minetest)
 
 ![markdown](https://github.com/mt-mods/awesome-minetest/workflows/markdownlint/badge.svg)
 
