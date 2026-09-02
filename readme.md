@@ -1,10 +1,10 @@
-# Awesome Minetest [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/mt-mods/awesome-minetest)
+# Awesome Luanti [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/mt-mods/awesome-minetest)
 
 ![markdown](https://github.com/mt-mods/awesome-minetest/workflows/markdownlint/badge.svg)
 
-> List of awesome things related to Minetest
+> List of awesome things related to Luanti
 
-[Minetest](https://minetest.net/) is an open source infinite-block sandbox game engine with support for survival and crafting
+[Luanti](https://luanti.org/) is an open source infinite-block sandbox game engine with support for survival and crafting
 
 ## TOC
 
@@ -20,43 +20,43 @@
 
 ## Websites
 
-- [Official Download](https://www.minetest.net)
-- [Discord](https://discord.gg/minetest)
-- [Wiki](https://wiki.minetest.net)
-- [Forum](https://forum.minetest.net)
-- [IRC](https://irc.minetest.net)
-- [Content-DB](https://content.minetest.net)
-- [Servers](https://servers.minetest.net)
-- [Github](https://github.com/minetest)
+- [Official Download](https://luanti.org/download/)
+- [Discord](https://discord.gg/minetest/)
+- [Docs](https://docs.luanti.org/)
+- [Forum](https://forum.luanti.org/)
+- [IRC](https://irc.luanti.org/)
+- [Content-DB](https://content.luanti.org/)
+- [Servers](https://servers.luanti.org/)
+- [Github](https://github.com/luanti-org/)
 
 ## Third-party websites
 
-- [Mesehub](https://git.minetest.land) Free software based Git service for Minetest projects
-- [monitoring.minetest.land](https://monitoring.minetest.land) Public minetest monitoring website for server owners
-- [blockexchange.minetest.land](https://blockexchange.minetest.land) Cloud worldedit import/export
+- [Mesehub](https://git.minetest.land) Free software based Git service for Luanti projects
+- [monitoring.luanti.ch](https://monitoring.luanti.ch)) Public Luanti monitoring website for server owners
+- [blockexchange.minetest.ch](https://blockexchange.minetest.ch/) Cloud worldedit import/export/sharing
 
 ## Modding
 
 ### Testing
 
-- [mineunit](https://github.com/mt-mods/mineunit) Minetest core / engine libraries for regression tests
+- [mineunit](https://github.com/mt-mods/mineunit) Luanti core / engine libraries for regression tests
 
 ## Third-party apps
 
 ### Performance
 
 - [monitoring](https://github.com/minetest-monitoring) monitoring tools
-- [mtbench](https://github.com/BuckarooBanzay/mtbench) minetest builtin benchmarking mod
+- [mtbench](https://github.com/BuckarooBanzay/mtbench) Luanti builtin benchmarking mod
 
 ### Map-tools
 
-- [minetestmapper](https://github.com/minetest/minetestmapper) default mapper
+- [minetestmapper](https://github.com/luanti-org/minetestmapper/) default mapper
 - [mapserver](https://github.com/minetest-mapserver) realtime mapserver
 - [colors.txt](https://github.com/MilesBDyson/Colors.txt) colors.txt repository for various mappers
 
 ## Libraries
 
-- [golang](https://github.com/minetest-go) go libraries/utilities for minetest
+- [golang](https://github.com/minetest-go) go libraries/utilities for Luanti
 
 ## License
 
