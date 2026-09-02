@@ -32,6 +32,8 @@
 ## Third-party websites
 
 - [Mesehub](https://git.minetest.land) Free software based Git service for Luanti projects
+- [monitoring.luanti.ch](https://monitoring.luanti.ch)) Public Luanti monitoring website for server owners
+- [blockexchange.minetest.land](https://blockexchange.minetest.ch/) Cloud worldedit import/export/sharing
 
 ## Modding
 
